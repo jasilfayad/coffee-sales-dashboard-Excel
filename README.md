@@ -3,10 +3,7 @@
 An interactive coffee sales dashboard built using Microsoft Excel to analyze sales performance across coffee types, roast types, sizes, countries, customers, and years.
 
 ## 📊 Dashboard Preview
-
-The completed dashboard is available here:
-
-[View Dashboard Image](dashboard.png)
+![Coffee Sales Dashboard](./dashboard.png)
 ## 🎯 Project Objective
 
 The objective of this project was to transform coffee sales data into an interactive Excel dashboard that provides a clear overview of sales performance and helps identify trends across different coffee products, countries, and time periods.

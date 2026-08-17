@@ -4,7 +4,7 @@ An interactive coffee sales dashboard built using Microsoft Excel to analyze sal
 
 ## 📊 Dashboard Preview
 
-dashboard.png
+![Coffee Sales Dashboard](./dashboard.png)
 
 ## 🎯 Project Objective
 
